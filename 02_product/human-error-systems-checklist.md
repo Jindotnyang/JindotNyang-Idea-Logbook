@@ -1,5 +1,4 @@
-# Human-Error-Resilient Organization Checklist  
-(휴먼에러 전제 조직 시스템 체크리스트)
+# Human-Error-Resilient Organization Checklist
 
 ## Author
 Proposed by: **JindotNyang**  
