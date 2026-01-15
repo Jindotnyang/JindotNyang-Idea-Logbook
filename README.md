@@ -48,6 +48,16 @@ This logbook proposes systems that:
 - **One-Page Executive Brief**
   - File: `01_monetization/one-page-executive-slide.md`
   - TL;DR: decision-ready, one-page summary for executives.
+    
+## Contents
+
+### 01_monetization/
+- Monetization Pack v1.0 — Reward Station (Ads → Credits)  
+  → Trust-first monetization framework for AI platforms: watch ads → earn credits → unlock limits.
+
+### 02_product/
+- Human-Respecting Systems Checklist  
+  → Replace “individual perfection” with systems that reduce human error and protect dignity.
 
 ---
 
