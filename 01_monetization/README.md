@@ -1,5 +1,5 @@
 # JindotNyang Idea Logbook 🐻‍❄️💡
-
+Proposed by JindotNyang. Timestamped via Git commit history. Attribution required.
 Timestamped product strategy & monetization concepts for AI platforms.  
 This repository exists to **publish ideas with public timestamps** (Git commit history) and to share practical frameworks derived from real-world incentive systems.
 
